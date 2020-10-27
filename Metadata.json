@@ -1,0 +1,20 @@
+{
+    "Author": "Daniel Neumann",
+    "ContentSize": 3878,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/microsoft-azure-recovery-services-vault-performance-health-check/master/Get-AzureRmRecoveryServicesVaultPerformanceHealth.ps1",
+    "DownloadCount": 870,
+    "Id": "Azure-Recovery-vault-2df0ee6e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 228,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-8-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The Power Shell script checks the current number of protected VMs per Recovery Services vault and for each backup policy in one Azure subscription. For more details visit the following blog article to get more insights about this script.",
+    "Title": "Microsoft Azure Recovery Services vault performance health check",
+    "UpdatedDate": "2018-4-18T00:00:00",
+    "Url": "https://github.com/azureautomation/microsoft-azure-recovery-services-vault-performance-health-check",
+    "UserTags": "Microsoft Azure, Windows Azure Virtual Machines, Azure Resource Manager"
+}
